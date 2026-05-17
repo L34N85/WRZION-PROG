@@ -1,0 +1,30 @@
+[
+  {
+    "id": "musica1",
+    "title": "Don't Dream It's Over",
+    "artist": "Crowded House",
+    "duration": 469,
+    "url": "https://cml.ct.ws/WRZION/programming/track/crowded-house-don-t-dream-it-s-over.mp3"
+  },
+{
+    "id": "musica2",
+    "title": "Dream",
+    "artist": "Fleetwood Mac",
+    "duration": 516,
+    "url": "https://cml.ct.ws/WRZION/programming/track/crowded-house-don-t-dream-it-s-over.mp3"
+  },
+{
+    "id": "musica3",
+    "title": "Hold the line",
+    "artist": "Toto",
+    "duration": 475,
+    "url": "https://cml.ct.ws/WRZION/programming/track/crowded-house-don-t-dream-it-s-over.mp3"
+  },
+  {
+    "id": "locucao1",
+    "title": "Abertura do Programa",
+    "artist": "Leandro Feijó",
+    "duration": 45,
+    "url": ""
+  }
+]
